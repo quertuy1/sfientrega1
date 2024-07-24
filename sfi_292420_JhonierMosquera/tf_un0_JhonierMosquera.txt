@@ -5,3 +5,8 @@ Es una herramienta de software que monitoriza y gestiona cambios en un sistema d
 2.¿Que diferencia hay entre un repositorio local y remoto?
 Un repositorio remoto se aloja en un servidor remoto (puede estar en Internet o en un servidor externo; incluso puede ser el mismo equipo en una ruta diferente) y se comparte entre varios miembros del equipo. Un repositorio local se aloja en un equipo local para un usuario individual.
 
+3.diferencias entre git y github
+a. github es un servicio y git es un software.
+b. github esta alojado en la web y git esta alojado localmente en el sistema.
+c. github tiene una interfaz grafica y git es una herramienta de linea de comandos
+d. github es un espacio para subir una copia del repositorio en Git y Git es una herramienta que maneja distintas versiones de las ediciones de archivos
