@@ -10,3 +10,10 @@ a. github es un servicio y git es un software.
 b. github esta alojado en la web y git esta alojado localmente en el sistema.
 c. github tiene una interfaz grafica y git es una herramienta de linea de comandos
 d. github es un espacio para subir una copia del repositorio en Git y Git es una herramienta que maneja distintas versiones de las ediciones de archivos
+
+4. en que consiste: Area de trabajo, area de preparacion(stage) y directorio git.
+Area de trabajo: Es donde realizas cambios en los archivos de tu proyecto. En esta área, puedes agregar, modificar o eliminar archivos y directorios según sea necesario para el desarrollo de tu proyecto.
+Area de preparacion:El área de preparación es un espacio intermedio donde puedes agrupar los cambios que deseas incluir en tu próximo commit. Básicamente, es una zona donde se guardan temporalmente las modificaciones antes de confirmarlas en el historial de commits.
+directorio git:El directorio de Git es donde se almacenan los metadatos y la base de datos de objetos para tu proyecto. Es la parte más importante de Git, y es lo que se copia cuando clonas un repositorio desde otra computadora.
+
+5.las ramas en git sirven para trabajar en un lugar aparte sin dañar el trabajo original para que en caso de que no haya ningun error en la rama poder combiarlos y trabajar comodamente asi como tambien ayudar a que sea mas comodo el trabajar en equipo
