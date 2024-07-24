@@ -1,2 +1,7 @@
 1. ¿Que es un sistema de control de versiones?
 Es una herramienta de software que monitoriza y gestiona cambios en un sistema de archivos.
+
+
+2.¿Que diferencia hay entre un repositorio local y remoto?
+Un repositorio remoto se aloja en un servidor remoto (puede estar en Internet o en un servidor externo; incluso puede ser el mismo equipo en una ruta diferente) y se comparte entre varios miembros del equipo. Un repositorio local se aloja en un equipo local para un usuario individual.
+
